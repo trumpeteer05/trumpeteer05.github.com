@@ -1,4 +1,3 @@
-Learn more or give us feedback
 var spaceship;
 var spaceship2;
 
